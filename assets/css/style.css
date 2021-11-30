@@ -26,6 +26,14 @@ body {
 
 /* removed a .header secition */
 
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
 .header ul li {
     padding-top: 15px;
     margin-right: 20px;
