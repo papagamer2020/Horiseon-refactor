@@ -4,3 +4,4 @@ In this assignment I condensed the html code to be more reader friendly. condens
 
 ![horiseonwebpage](./assets/images/horiesonpage.jpeg)
 
+[deployedversion](https://papagamer2020.github.io/Horiseon-refactor/)
